@@ -10,7 +10,7 @@ I'm a full-stack software engineer passionate about building clean, scalable sof
 
 ## 🚀 Projects
 - [**Frigiradium**](https://github.com/jbmtch/frigiradium) — Track food inventory & expiration dates to reduce household waste  
-- [**Resume (PDF)**](/Users/justinmitchell/Desktop/jbmtch/Justin_Mitchell_Resume_June_2025 (1).pdf)
+- [**Resume (PDF)**](https://github.com/jbmtch/jbmtch/blob/main/Justin_Mitchell_Resume_June_2025%20(1).pdf)
 
 ## 💡 Interests
 - Engineering roles in **government technology**, **defense contractors**, or the **State of California**  
